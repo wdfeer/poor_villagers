@@ -1,4 +1,4 @@
-package wdfeer.limited_trading.mixin;
+package wdfeer.poor_villagers.mixin;
 
 import net.minecraft.entity.passive.VillagerEntity;
 import org.spongepowered.asm.mixin.Mixin;

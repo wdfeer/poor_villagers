@@ -1,21 +1,21 @@
 {
 	"schemaVersion": 1,
-	"id": "limited-trading",
+	"id": "poor_villagers",
 	"version": "${version}",
-	"name": "Limited Trading",
+	"name": "Poor Villagers",
 	"description": "Makes villager trades run out of goods faster and restock slower.",
 	"authors": [
 		"wdfeer"
 	],
 	"contact": {
-		"sources": "https://github.com/wdfeer/limited-trading"
+		"sources": "https://github.com/wdfeer/poor_villagers"
 	},
 	"license": "MIT",
-	"icon": "assets/limited-trading/icon.png",
+	"icon": "assets/poor_villagers/icon.png",
 	"environment": "*",
 	"entrypoints": {},
 	"mixins": [
-		"limited-trading.mixins.json"
+		"poor_villagers.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.3",
