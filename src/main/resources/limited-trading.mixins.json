@@ -1,14 +1,15 @@
 {
-	"required": true,
-	"package": "wdfeer.limited_trading.mixin",
-	"compatibilityLevel": "JAVA_17",
-	"mixins": [
-      "TradeMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
-	},
-	"overwrites": {
-		"requireAnnotations": true
+  "required": true,
+  "package": "wdfeer.limited_trading.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TradeMixin",
+    "VillagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
 	}
 }
