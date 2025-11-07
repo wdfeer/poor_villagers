@@ -3,7 +3,7 @@
 	"id": "limited-trading",
 	"version": "${version}",
 	"name": "Limited Trading",
-	"description": "Makes villager trades run out of goods faster.",
+	"description": "Makes villager trades run out of goods faster and restock slower.",
 	"authors": [
 		"wdfeer"
 	],
